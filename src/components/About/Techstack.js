@@ -5,7 +5,7 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiPython,
+  DiHtml5,
   DiGit,
   DiJava,
   DiBootstrap,
@@ -42,7 +42,7 @@ function Techstack() {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
+        <DiHtml5 />
       </Col>
     </Row>
   );
