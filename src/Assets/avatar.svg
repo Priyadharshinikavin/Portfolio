@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+This is the code used for this avatar. help me to change this                                                                                         <?xml version="1.0" encoding="UTF-8"?> 
 <svg width="217px" height="237px" viewBox="0 0 217 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
     <title>mf-avatar</title>
@@ -87,7 +87,7 @@
                             <mask id="mask-14" fill="white">
                                 <use xlink:href="#path-13"></use>
                             </mask>
-                            <use id="Short-Hair" stroke="none" fill="#1F3140" fill-rule="evenodd" xlink:href="#path-13"></use>
+                            <use id="short-hair" stroke="none" fill="#1F3140" fill-rule="evenodd" xlink:href="#path-13"></use>
                             <g id="Color/Hair/Brown-Dark" stroke="none" fill="none" mask="url(#mask-14)" fill-rule="evenodd">
                                 <g transform="translate(-43.100000, -15.000000)" fill="#4A312C" id="Color">
                                     <rect x="0" y="0" width="239.106977" height="252.406452"></rect>
